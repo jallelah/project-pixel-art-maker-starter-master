@@ -1,3 +1,4 @@
+
 // iterate throught table row and cells
 function makeGrid(row, cell) {
   var table = document.getElementById("pixelCanvas");
